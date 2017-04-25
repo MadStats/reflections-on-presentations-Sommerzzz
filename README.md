@@ -51,3 +51,46 @@ What were aspects of the presentation that you liked: The EDA is interesting and
 What were aspects of the presentations for which you had concerns or questions: I expect more explanation about the comparison of different models. And I am a little bit confused about the devision of the blocks.
 
 
+
+
+Title of presentation: Games
+
+What were aspects of the presentation that you liked: The topic is interesting.
+
+What were aspects of the presentations for which you had concerns or questions: Not very clear about the model.
+
+
+
+
+Title of presentation: H1B
+
+What were aspects of the presentation that you liked: The introduction is clear.
+
+What were aspects of the presentations for which you had concerns or questions: Need more interpretation about the cluster.
+
+
+
+
+Title of presentation: fatal car accidents
+
+What were aspects of the presentation that you liked: Enough residual analysis.
+
+What were aspects of the presentations for which you had concerns or questions: Need more interesting things.
+
+
+
+
+Title of presentation: NBA
+
+What were aspects of the presentation that you liked: Beautiful plots.
+
+What were aspects of the presentations for which you had concerns or questions: How are all of your plots related to the thesis.
+
+
+
+
+Title of presentation: Global Terrorism
+
+What were aspects of the presentation that you liked: The plots really show much information.
+
+What were aspects of the presentations for which you had concerns or questions: More careful about the dataset.
